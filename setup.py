@@ -20,5 +20,6 @@ setup(
         "ollama",
         "scikit-learn",   
         "joblib",
+        "fanucpy",
     ],
 )

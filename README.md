@@ -1,8 +1,8 @@
 <div align="center">
 
-# IWINAC 2026
+# The International Journal of Robotics Research
 
-**Intrinsic motivation methods for goal exploration and skill improvement in a simple robotic environment.**
+**Towards Resilient Robots: Autonomous Adaptation though a Motivational Engine**
 
 </div>
 
@@ -13,12 +13,12 @@ Experiment videos can be found in the `experiment_videos` directory.
 
 ```bash
 # Clone the repository
-git clone https://github.com/mullerjaku/iwinac2026.git
+git clone https://github.com/mullerjaku/ijr2026.git
 cd iwinac2026
 
 # Conda env
-conda create -n iwinac python=3.10.12 -y
-conda activate iwinac
+conda create -n ijr python=3.10.12 -y
+conda activate ijr
 
 # Install dependencies
 pip install --upgrade pip
