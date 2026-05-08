@@ -14,7 +14,7 @@ Experiment videos can be found in the `experiment_videos` directory.
 ```bash
 # Clone the repository
 git clone https://github.com/mullerjaku/ijr2026.git
-cd iwinac2026
+cd ijr2026
 
 # Conda env
 conda create -n ijr python=3.10.12 -y
